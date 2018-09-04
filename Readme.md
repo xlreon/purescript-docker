@@ -5,6 +5,7 @@ Clone:
 ```
 git clone https://github.com/xlreon/purescript-docker.git
 cd purescript-docker
+```
 
 Build:
 ```
