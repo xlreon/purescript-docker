@@ -3,8 +3,7 @@ Go ahead and try it yourself:
 
 Clone:
 ```
-git clone https://github.com/xlreon/purescript-docker.git
-cd purescript-docker
+git clone https://github.com/xlreon/purescript-docker.git && cd purescript-docker
 ```
 
 Build:
